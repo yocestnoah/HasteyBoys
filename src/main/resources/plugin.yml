@@ -1,5 +1,9 @@
-name: Hastey Boys
+name: HasteyBoys
 version: '${project.version}'
 main: net.noah.hasteyboys.HasteyBoys
 api-version: '1.20'
 load: STARTUP
+commands:
+  hasteyboys:
+    description: Command for Hastey Boys scenario.
+    usage: /hasteyboys <enable/disable/description>
