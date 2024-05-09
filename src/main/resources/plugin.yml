@@ -1,0 +1,5 @@
+name: Hastey Boys
+version: '${project.version}'
+main: net.noah.hasteyboys.HasteyBoys
+api-version: '1.20'
+load: STARTUP
